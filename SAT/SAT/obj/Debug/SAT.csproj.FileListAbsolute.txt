@@ -1,0 +1,12 @@
+c:\users\trvel\onedrive\documents\visual studio 2015\Projects\SAT\SAT\bin\Debug\SAT.exe.config
+C:\Users\trvel\OneDrive\Documents\Visual Studio 2015\Projects\SAT\SAT\bin\Debug\SAT.exe
+C:\Users\trvel\OneDrive\Documents\Visual Studio 2015\Projects\SAT\SAT\bin\Debug\SAT.pdb
+C:\Users\trvel\OneDrive\Documents\Visual Studio 2015\Projects\SAT\SAT\obj\Debug\SAT.csprojResolveAssemblyReference.cache
+C:\Users\trvel\OneDrive\Documents\Visual Studio 2015\Projects\SAT\SAT\obj\Debug\SAT.exe
+C:\Users\trvel\OneDrive\Documents\Visual Studio 2015\Projects\SAT\SAT\obj\Debug\SAT.pdb
+C:\Classes backup\SAT\SAT\bin\Debug\SAT.exe.config
+C:\Classes backup\SAT\SAT\obj\Debug\SAT.exe
+C:\Classes backup\SAT\SAT\obj\Debug\SAT.pdb
+C:\Classes backup\SAT\SAT\bin\Debug\SAT.exe
+C:\Classes backup\SAT\SAT\bin\Debug\SAT.pdb
+C:\Classes backup\SAT\SAT\obj\Debug\SAT.csprojResolveAssemblyReference.cache
